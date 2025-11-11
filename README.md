@@ -2,7 +2,8 @@
 
 Welcome to my personal developer portfolio, built using modern web technologies like React, TypeScript, Vite, Tailwind CSS, and shadcn/ui.
 
-🔗 Live Preview: [https://github.com/Raju5432167890/yellaraju-ai-portfolio-showcase)
+🔗 Live Preview: [https://github.com/Raju5432167890/yellaraju-ai-portfolio-showcase](https://github.com/Raju5432167890/yellaraju-ai-portfolio-showcase)
+
 
 🎯 Features:
 - Responsive and modern UI design
